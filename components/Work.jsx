@@ -81,48 +81,48 @@ const ProjectButton = styled.a`
 
 const projectlist = [
   {
-    url: "https://gigindiablog.medium.com/these-ai-driven-customer-onboarding-models-will-help-you-to-sustain-your-customers-for-long-b9c46dc13d16",
+    url: "https://www.behance.net/gallery/119862845/Google-Material-You-UI-Control-Center",
     title: "Google : Material You UI - Control Center",
-    desc: "Increase your customer lifetime value by 30% with proactive customer onboarding models.",
+    desc: "I have tried to replicate the New Control Center.",
     img: "Projects/project1.png",
   },
   {
-    url: "https://gigindiablog.medium.com/these-ai-driven-customer-onboarding-models-will-help-you-to-sustain-your-customers-for-long-b9c46dc13d16",
-    title: "Google : Material You UI - Control Center",
-    desc: "Increase your customer lifetime value by 30% with proactive customer onboarding models.",
+    url: "https://www.behance.net/gallery/120063407/LottieFiles-Animations-Figma",
+    title: "LottieFiles Animations : Figma",
+    desc: "Super simple and beautiful animations in your designs!",
     img: "Projects/project01.png",
   },
   {
-    url: "https://gigindiablog.medium.com/these-ai-driven-customer-onboarding-models-will-help-you-to-sustain-your-customers-for-long-b9c46dc13d16",
+    url: "https://www.behance.net/gallery/108601297/Apple-MacBook-Air-Web-Design-Glass-Morphism-Concept",
     title: "Google : Material You UI - Control Center",
-    desc: "Increase your customer lifetime value by 30% with proactive customer onboarding models.",
+    desc: "Tried the Glass Morphism for the first time and it turned out to be good!",
     img: "Projects/project02.png",
   },
   {
-    url: "https://gigindiablog.medium.com/these-ai-driven-customer-onboarding-models-will-help-you-to-sustain-your-customers-for-long-b9c46dc13d16",
-    title: "Google : Material You UI - Control Center",
-    desc: "Increase your customer lifetime value by 30% with proactive customer onboarding models.",
+    url: "https://www.behance.net/gallery/108684785/Games-App-UI-Concept-Cyberpunk-2077",
+    title: "Games App UI Concept : Cyberpunk 2077",
+    desc: "Created an App UI Concept for Games Application which has a screen which displays the Game Details.",
     img: "Projects/project03.png",
   },
 ];
 
 const designlist = [
   {
-    url: "https://gigindiablog.medium.com/these-ai-driven-customer-onboarding-models-will-help-you-to-sustain-your-customers-for-long-b9c46dc13d16",
-    title: "Google : Material You UI - Control Center",
-    desc: "Increase your customer lifetime value by 30% with proactive customer onboarding models.",
+    url: "https://www.behance.net/gallery/115415953/Fredo-Hero-Section",
+    title: "Landing Page UI Design",
+    desc: "Designed a landing page for a Saas Application",
     img: "Projects/project04.png",
   },
   {
-    url: "https://gigindiablog.medium.com/these-ai-driven-customer-onboarding-models-will-help-you-to-sustain-your-customers-for-long-b9c46dc13d16",
-    title: "Google : Material You UI - Control Center",
-    desc: "Increase your customer lifetime value by 30% with proactive customer onboarding models.",
+    url: "https://www.behance.net/gallery/120039763/Reswitch-Tech-Website-Redesign",
+    title: "Reswitch Tech : Website Redesign",
+    desc: "Designed this super minimalist and super clean Landing Pages.",
     img: "Projects/project05.png",
   },
   {
     url: "https://www.behance.net/gallery/129331083/iOS-15-Control-Center-UI-Kit",
-    title: "Google : Material You UI - Control Center",
-    desc: "Increase your customer lifetime value by 30% with proactive customer onboarding models.",
+    title: "iOS 15 : Control Center UI Kit",
+    desc: "Designed the iOS 15 Control center in Figma using Auto Layout!",
     img: "Projects/project06.png",
   },
 ];
